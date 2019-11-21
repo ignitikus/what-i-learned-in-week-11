@@ -12,7 +12,10 @@
 - More DOM with event listeners plus reset button.
 - The goal was to make interface for dice rolling and displaying mean, median, and mode.
 
-## BS Paint
+## [BS Paint](https://github.com/ignitikus/bs-paint)
+- Exercise about how to change classes in DOM.
+- The goal was to make 'MS paint' in browser.
+- `New!` .classList/ .classList.add()/ .classList.replace()
 
 ## Transmogrify
 
