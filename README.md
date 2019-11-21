@@ -1,6 +1,7 @@
 # What I Learned In Week 11
 
-## Object Stuff
+## [Object Stuff](https://github.com/ignitikus/object-stuff) 
+- object manipulation exercise.
 
 ## An Objectively Challenging Game
 
