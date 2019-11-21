@@ -3,8 +3,11 @@
 ## [Object Stuff](https://github.com/ignitikus/object-stuff) 
 - object manipulation exercise.
 
-## An Objectively Challenging Game
-
+## [An Objectively Challenging Game](http://bird-attack.surge.sh) 
+- DOM manipulation with objects.
+- The goal was to create a simple browser game.
+- `New!` .removeEventListener(event, function)
+  
 ## Just How We Roll!
 
 ## BS Paint
