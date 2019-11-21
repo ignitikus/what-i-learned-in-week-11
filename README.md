@@ -8,7 +8,9 @@
 - The goal was to create a simple browser game.
 - `New!` .removeEventListener(event, function)
   
-## Just How We Roll!
+## [Just How We Roll!](https://github.com/ignitikus/just-how-we-roll)
+- More DOM with event listeners plus reset button.
+- The goal was to make interface for dice rolling and displaying mean, median, and mode.
 
 ## BS Paint
 
